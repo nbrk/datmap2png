@@ -12,6 +12,7 @@ under the menu "Terrain analysis").
 
 The options are as follows:
 
+```
 Help Options:
   -h, --help               Show help options
 
@@ -23,6 +24,7 @@ Application Options:
   --5km                    Overlay 5-kilometer grid
   --10km                   Overlay 10-kilometer grid
   -d, --description        Add description text to generated image
+```
 
 # Examples
 The invocation
