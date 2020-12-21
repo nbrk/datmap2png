@@ -1,6 +1,11 @@
 # Name
 **datmap2png** - render TacOps .dat map into a PNG image
 
+# Building
+Apart from a C99 compiler and CMake, dependencies are: 
+- glib
+- cairo
+
 # Synopsis
 **datmap2png** [-dhv] [--1km] [--5km] [--10km] -i FILENAME -o FILENAME
 
