@@ -10,6 +10,8 @@ and all of the features into a PNG file. The rendering style and the color schem
 are similar to one found in the original TacOps simulation program (available 
 under the menu "Terrain analysis").
 
+![render](samples/Map001c.png)
+
 The options are as follows:
 
 ```
